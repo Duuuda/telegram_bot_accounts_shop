@@ -1,0 +1,8 @@
+{
+  "TOKEN": "TOKEN",
+  "super_admin_id": ID,
+  "PAYMENTS_PROVIDER_TOKEN": "TOKEN",
+  "PROMOTION_SUBSCRIPTION_TITLE": "'Продвижение и заработок' (30 дней)",
+  "PROMOTION_SUBSCRIPTION_DESCRIPTION": "Описание подписки на 'Продвижение и заработок' (30 дней)",
+  "PRICE": "10000"
+}
