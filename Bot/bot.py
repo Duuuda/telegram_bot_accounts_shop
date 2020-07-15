@@ -67,5 +67,5 @@ def all_message_getter(message):
         elif MAIN_COMMAND_BUY in message.text:
             amount_accounts_handler(bot, message)
         else:
-            bot.send_message(message.chat.id, 'Я не понимаю:(', parse_mode="html")
+            bot.send_message(message.chat.id, 'Я не понимаю :(', parse_mode="html")
 # ----------------------------------------------------------------------------------------------------------------------
