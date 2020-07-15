@@ -1,6 +1,9 @@
 from Bot import start_up_bot
 
 
-if __name__ == '__main__':
-
+def main():
     start_up_bot()
+
+
+if __name__ == '__main__':
+    main()
